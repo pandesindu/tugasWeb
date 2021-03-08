@@ -69,7 +69,6 @@
  
     </div>
 </section>
- 
 
 <footer>
     <h3>@copyrirgt by sindu_ardinata 2021</h3>
